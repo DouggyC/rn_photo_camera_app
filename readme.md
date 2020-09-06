@@ -18,7 +18,7 @@ Required Permissions:
 
 <hr />
 
-## Expo Test Link: https://expo.io/@avocadojs/rn_photo_app
+## Expo Testable Link: https://expo.io/@avocadojs/rn_photo_app
 
 
 ### Expo App:
