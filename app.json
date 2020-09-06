@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn_gallery",
-    "slug": "rn_gallery",
+    "name": "rn_photo_app",
+    "slug": "rn_photo_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A React Native Photo App. To test please download Expo app from Apple or Play Store, link at bottom right corner. Scan QR barcode and begin testing. Thank you.",
+    "githubUrl": "https://github.com/DouggyC/rn_photo_app"
   }
 }
