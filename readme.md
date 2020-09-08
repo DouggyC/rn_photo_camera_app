@@ -20,7 +20,6 @@ Required Permissions:
 
 ## Expo Testable Link: https://expo.io/@avocadojs/rn_photo_app
 
-
 ### Expo App:
 - Apple Store: https://apps.apple.com/app/apple-store/id982107779
 
@@ -37,4 +36,7 @@ Required Permissions:
   <img src="demo_images/6.jpg" alt="drawing" width="400"/>
 </div>
 
-
+## Future Features
+- [ ] Infinite Scroll
+- [ ] Write to specific dir
+- [ ] Save to external database
