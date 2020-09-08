@@ -29,10 +29,12 @@ Required Permissions:
 <hr>
 
 ![](demo_images/1.gif)
-![](demo_images/2.png)
-![](demo_images/3.png)
-![](demo_images/4.jpg)
-![](demo_images/5.jpg)
-![](demo_images/6.jpg)
+![](demo_images/2.png =300.500)
+<p align="center">
+  <img src="demo_images/3.png" alt="drawing" width="300"/>
+  <img src="demo_images/4.png" alt="drawing" width="300"/>
+  <img src="demo_images/5.png" alt="drawing" width="300"/>
+  <img src="demo_images/6.png" alt="drawing" width="300"/>
+</p>
 
 
