@@ -29,13 +29,12 @@ Required Permissions:
 <hr>
 
 ![](demo_images/1.gif)
-<p align="center">
-  <img src="demo_images/1.gif" alt="drawing" width="300"/>
-  <img src="demo_images/2.png" alt="drawing" width="300"/>
-  <img src="demo_images/3.png" alt="drawing" width="300"/>
-  <img src="demo_images/4.jpg" alt="drawing" width="300"/>
-  <img src="demo_images/5.jpg" alt="drawing" width="300"/>
-  <img src="demo_images/6.jpg" alt="drawing" width="300"/>
-</p>
+<div align="center">
+  <img src="demo_images/2.png" alt="drawing" width="400"/>
+  <img src="demo_images/3.png" alt="drawing" width="400"/>
+  <img src="demo_images/4.jpg" alt="drawing" width="400"/>
+  <img src="demo_images/5.jpg" alt="drawing" width="400"/>
+  <img src="demo_images/6.jpg" alt="drawing" width="400"/>
+</div>
 
 
