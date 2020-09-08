@@ -1,4 +1,4 @@
-# React Native Photo App
+# React Native Photo Camera App
 
 Tech Stack: 
 > React Native, expo
