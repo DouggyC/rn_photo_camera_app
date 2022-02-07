@@ -30,9 +30,12 @@ Required Permissions:
 
 <hr>
 
-![](demo_images/1.gif)
+![Test](demo_images/1.gif)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <div align="center">
+  <img src="demo_images/1.gif" alt="drawing" width="400"/>
   <img src="demo_images/2.png" alt="drawing" width="400"/>
   <img src="demo_images/3.png" alt="drawing" width="400"/>
   <img src="demo_images/4.jpg" alt="drawing" width="400"/>
