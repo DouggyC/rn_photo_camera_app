@@ -2,17 +2,7 @@
 
 Tech Stack:
 
-https://user-images.githubusercontent.com/33332978/152750569-921ada87-786d-4a08-9e01-1117ff70a938.mp4
-
-
-
 > React Native, expo
-
-<video src='demo_images/test.mp4'></video>
-
-https://github.com/DouggyC/rn_photo_camera_app/demo_images/test.mp4
-
-https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
 
 ### Description
 
@@ -50,10 +40,6 @@ Required Permissions:
 </div>
 
 ## Future Features
-
-
-https://user-images.githubusercontent.com/33332978/152747558-69e83109-884e-451f-87e2-86472a749388.mp4
-
 
 - [ ] Infinite Scroll
 - [ ] Write to specific dir
