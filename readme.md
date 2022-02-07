@@ -47,6 +47,10 @@ Required Permissions:
 
 ## Future Features
 
+
+https://user-images.githubusercontent.com/33332978/152747558-69e83109-884e-451f-87e2-86472a749388.mp4
+
+
 - [ ] Infinite Scroll
 - [ ] Write to specific dir
 - [ ] Save to external database
