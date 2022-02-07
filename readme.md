@@ -2,6 +2,10 @@
 
 Tech Stack:
 
+https://user-images.githubusercontent.com/33332978/152750569-921ada87-786d-4a08-9e01-1117ff70a938.mp4
+
+
+
 > React Native, expo
 
 <video src='demo_images/test.mp4'></video>
